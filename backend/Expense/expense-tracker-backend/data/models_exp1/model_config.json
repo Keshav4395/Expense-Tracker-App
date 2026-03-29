@@ -1,0 +1,36 @@
+{
+  "behavior_types": [
+    "disciplined_saver",
+    "foody_person",
+    "gaming_person",
+    "gym_enthusiast",
+    "online_shopper",
+    "travel_lover",
+    "weekend_party_person"
+  ],
+  "feature_columns": [
+    "day_of_week",
+    "is_weekend",
+    "salary",
+    "target_savings",
+    "daily_budget",
+    "food_dining",
+    "groceries",
+    "transportation",
+    "rent",
+    "utilities",
+    "parties_social",
+    "cigarettes_alcohol",
+    "entertainment",
+    "shopping",
+    "online_shopping",
+    "coffee_snacks",
+    "gaming_apps",
+    "gym_fitness",
+    "healthcare",
+    "travel",
+    "personal_care",
+    "total_daily_expense"
+  ],
+  "sequence_length": 30
+}
